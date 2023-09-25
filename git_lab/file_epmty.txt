@@ -1,0 +1,4 @@
+total 1
+-rw-r--r-- 1 student 197121 6 Sep 25 11:39 README.md
+-rw-r--r-- 1 student 197121 0 Sep 25 12:01 file_epmty.txt
+drwxr-xr-x 1 student 197121 0 Sep 25 11:40 git_lab/
